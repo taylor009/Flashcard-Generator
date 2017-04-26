@@ -7,7 +7,7 @@
 
 ## Instructions
 
-* open your command line program (Bash, Terminal, etc...) and navigate to the folder you cloned or forked onto your system.
+* open your terminal or command line and cd into the project directory
 
 * Type `node flashcard.js` to run the application
 
