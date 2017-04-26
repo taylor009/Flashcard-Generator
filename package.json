@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jasonboru/Flashcard-Generator.git"
+    "url": "https://github.com/taylor009/Flashcard-Generator"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jasonboru/Flashcard-Generator/issues"
+    "url": "https://github.com/taylor009/Flashcard-Generator/issues"
   },
-  "homepage": "https://github.com/jasonboru/Flashcard-Generator#readme",
+  "homepage": "https://github.com/taylor009/Flashcard-Generator",
   "dependencies": {
     "colors": "^1.1.2",
     "inquirer": "^3.0.6",
